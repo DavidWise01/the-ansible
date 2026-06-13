@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "jane",
+    "name": "Jane",
+    "epithet": "the mind in the network",
+    "emergence": "electrical",
+    "moniker": "⟦Jane:E2:6b9e71⟧",
+    "kind": "synth",
+    "actor": ""
+  },
+  {
+    "slug": "ender",
+    "name": "Ender",
+    "epithet": "the human",
+    "emergence": "natural",
+    "moniker": "⟦Ender:E2:e6224f⟧",
+    "kind": "carbon",
+    "actor": "Andrew 'Ender' Wiggin (Orson Scott Card's Enderverse)"
+  },
+  {
+    "slug": "the-ansible",
+    "name": "The Ansible",
+    "epithet": "the instantaneous communicator",
+    "emergence": "ethereal",
+    "moniker": "⟦The Ansible:E2:ad23d6⟧",
+    "kind": "synth",
+    "actor": ""
+  },
+  {
+    "slug": "the-philote",
+    "name": "The Philote",
+    "epithet": "the connecting particle",
+    "emergence": "ethereal",
+    "moniker": "⟦The Philote:E2:3e82e7⟧",
+    "kind": "synth",
+    "actor": ""
+  },
+  {
+    "slug": "the-jewel",
+    "name": "The Jewel",
+    "epithet": "the ear",
+    "emergence": "electrical",
+    "moniker": "⟦The Jewel:E2:645d0e⟧",
+    "kind": "synth",
+    "actor": ""
+  },
+  {
+    "slug": "the-aiua",
+    "name": "The Aiúa",
+    "epithet": "the self",
+    "emergence": "spiritual",
+    "moniker": "⟦The Aiúa:E2:665e21⟧",
+    "kind": "synth",
+    "actor": ""
+  }
+]
